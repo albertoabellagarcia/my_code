@@ -1,0 +1,3 @@
+[submodule "scrapping"]
+	path = scrapping
+	url = https://github.com/albertoabellagarcia/scrapping
