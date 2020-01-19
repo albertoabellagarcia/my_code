@@ -1,2 +1,4 @@
 # my_code
-Code developed for seveal purposes
+Code developed for several purposes
+
+Every line will be a submodule
