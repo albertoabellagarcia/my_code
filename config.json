@@ -1,0 +1,7 @@
+{
+    "dataModel.Environment": "https://raw.githubusercontent.com/smart-data-models/dataModel.Environment/master/context.jsonld",
+    "dataModel.Parking": "https://raw.githubusercontent.com/smart-data-models/dataModel.Parking/master/context.jsonld",
+    "dataModel.Transportation": "https://raw.githubusercontent.com/smart-data-models/dataModel.Transportation/master/context.jsonld",
+    "dataModel.Weather": "https://raw.githubusercontent.com/smart-data-models/dataModel.Weather/master/context.jsonld"
+    
+}
